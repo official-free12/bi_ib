@@ -1,0 +1,6 @@
+# 【毕设】jsp091ssm基金信息管理系统hsg7207B6毕业设计
+
+免费安装<br>技术实现<br>开发语言:example.com:example.com:B/example.com:example.com:example.com:1万左右.<br>功能实现<br>详细功能请直接下载视频观看。以下信息为大体的功能介绍:<br>通过系统需求分析,本文主要介绍系统后台功能<br>本系统开发完成后，主要实现如下目标：<br>针对现存的问题和需要，通过功能需求的分析，特建立了数字化、信息化的基金信息管理系统。<br>本系统主要包含了等系统用户管理、基金信息管理、收藏管理功能模块。下面分别简单阐述一下这几个功能模块需求。<br>管理员的登录模块：管理员登录系统对本系统其他管理模块进行管理。<br>用户的登录模块：用户登录本系统，对个人的信息等进行查询，操作可使用的功能。<br>添加管理员模块：向本系统中添加更多的管理人员，管理员包括普通管理员和管理员。<br>基金信息管理模块：<br>基金信息列表：将数据库的商品表以列表的形式呈现给管理员。<br>添加基金信息：实现管理员添加基金信息，应该包括基金信息。<br>修改基金信息：实现管理员修改基金信息，包括修改基金信息。<br>收藏管理模块：<br>收藏列表：将数据库的商品表以列表的形式呈现给管理员。<br>添加收藏：实现管理员添加收藏，应该包括收藏。<br>修改收藏：实现管理员修改收藏，包括修改收藏。 <br>用户模块：<br>资料管理：用户登录本系统。可以对自己的个人主页进行查看。<br>系统信息：用户可以查看自己的系统提示信息。<br>修改资料：用户可以修改自己的账号密码。<br>信息搜索：用户可以通过关键字搜索站内信息。<br>密码修改：用户可以修改个人登录密码。<br>系统管理模块：包括数据备份。<br>退出模块：<br>管理员退出：管理员用来退出系统。<br>用户退出：用户用来退出系统<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/1cmbV" style="color: red;">https://mega-file.org/1cmbV</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
